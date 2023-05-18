@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>sbank Snapshot Nexus Repository </name>
-	      <url>http://65.2.79.11:9980/sbank/repository/sbank-snapshot/t/</url>
+	      <url>http://65.2.79.11:9980/sbank/repository/sbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
