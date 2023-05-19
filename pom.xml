@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>sbank Releases Nexus Repository</name>
-	      <url>http://65.2.79.11:9980/sbank/repository/sbank-release/</url>
+	      <url>http://172.31.0.39:9980/sbank/repository/sbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
